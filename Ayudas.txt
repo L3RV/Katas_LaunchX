@@ -1,6 +1,0 @@
-
-# Modulo 2
-
-https://medium.com/@sawlemon/creating-a-python-virtual-environment-in-windows-4c95bd2e7c56
-
-cd /Equipo2/Docu/LaunchX/Semana1/env/Scripts
